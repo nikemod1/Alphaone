@@ -1,0 +1,7 @@
+# Ignore virtual environments
+alphaone/
+alphaone-py311/
+*.pyc
+__pycache__/
+*.pkl
+*.h5
